@@ -1,0 +1,46 @@
+body {
+  background-color: white;
+}
+
+#main {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eeeeee;
+}
+#id-title {
+  text-align: center;
+  padding-bottom: 5px;
+  margin-top: 5px;
+}
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+figcaption {
+  text-align: center;
+  padding: 10px;
+}
+.title {
+  margin: 50px 0;
+  text-align: center;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+.para {
+  margin: 0px 263px 50px 245px;
+}
